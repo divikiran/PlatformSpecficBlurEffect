@@ -1,0 +1,10 @@
+/Users/divikiranravela/Projects/BlurEffect1/UITests/bin/Debug/BlurEffect1.UITests.dll
+/Users/divikiranravela/Projects/BlurEffect1/UITests/bin/Debug/BlurEffect1.UITests.pdb
+/Users/divikiranravela/Projects/BlurEffect1/UITests/bin/Debug/nunit.framework.dll
+/Users/divikiranravela/Projects/BlurEffect1/UITests/bin/Debug/Xamarin.UITest.dll
+/Users/divikiranravela/Projects/BlurEffect1/UITests/bin/Debug/nunit.framework.xml
+/Users/divikiranravela/Projects/BlurEffect1/UITests/bin/Debug/Xamarin.UITest.xml
+/Users/divikiranravela/Projects/BlurEffect1/UITests/obj/Debug/BlurEffect1.UITests.csprojResolveAssemblyReference.cache
+/Users/divikiranravela/Projects/BlurEffect1/UITests/obj/Debug/BlurEffect1.UITests.csproj.CoreCompileInputs.cache
+/Users/divikiranravela/Projects/BlurEffect1/UITests/obj/Debug/BlurEffect1.UITests.dll
+/Users/divikiranravela/Projects/BlurEffect1/UITests/obj/Debug/BlurEffect1.UITests.pdb

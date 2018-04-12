@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1F006D20-A963-4ADC-BEEC-16CB19671834}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlurEffect1/BlurEffect1Page.xaml">
+    <Files>
+      <File FileName="BlurEffect1/BlurEffect1Page.xaml" Line="11" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlurEffect1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9A551ADE-F0A8-4716-B83B-15E41242D8B7">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BlurEffect1.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
